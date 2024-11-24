@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Himanshu-Portfolio/static/css/main.749cd7f2.css",
+    "main.js": "/Himanshu-Portfolio/static/js/main.dfc06e3e.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Himanshu-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Himanshu-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/Himanshu-Portfolio/static/media/home-main.1d1e0e424c8f1114e56d733bb9cc55ea.svg",
+    "static/media/logo.png": "/Himanshu-Portfolio/static/media/logo.60c1571ba8762c203567.png",
+    "static/media/avatar.svg": "/Himanshu-Portfolio/static/media/avatar.dde4e6268c9a84c745d18493b421ea2f.svg",
+    "static/media/about.png": "/Himanshu-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/HimanshuRameshAgarwalCV.pdf": "/Himanshu-Portfolio/static/media/HimanshuRameshAgarwalCV.d754f734e4f9f9cf0933.pdf",
+    "static/media/home-bg.jpg": "/Himanshu-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Himanshu-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Himanshu-Portfolio/index.html",
+    "main.749cd7f2.css.map": "/Himanshu-Portfolio/static/css/main.749cd7f2.css.map",
+    "main.dfc06e3e.js.map": "/Himanshu-Portfolio/static/js/main.dfc06e3e.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Himanshu-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Himanshu-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749cd7f2.css",
+    "static/js/main.dfc06e3e.js"
+  ]
+}
